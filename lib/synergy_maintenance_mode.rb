@@ -1,5 +1,4 @@
 require 'spree_core'
-require 'synergy_maintenance_mode_hooks'
 
 module SynergyMaintenanceMode
   class Engine < Rails::Engine
